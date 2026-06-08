@@ -5,7 +5,7 @@ Analysis of 7,043 telecom customers to identify churn patterns
 and provide business recommendations using SQL and Tableau.
 
 ## 🔗 Live Dashboard
-[View Interactive Tableau Dashboard](https://public.tableau.com/views/TelecomCustomerChurnAnalysis_17798559144030/TelecomCustomerChurnAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/views/TelecomCustomerChurnAnalysis_17798559144030/TelecomCustomerChurnAnalysis)
 
 ## 🛠️ Tools Used
 - MySQL — Data storage and analysis
